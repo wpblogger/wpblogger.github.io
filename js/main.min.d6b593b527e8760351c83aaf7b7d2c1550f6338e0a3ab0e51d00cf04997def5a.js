@@ -1,0 +1,1 @@
+window.onload=()=>{const e=document.getElementById("menuOpen"),t=document.getElementById("menuClose"),n=document.getElementById("mobileMenu");console.log(),e&&e.addEventListener("click",()=>{n.classList.remove("hidden")}),t&&t.addEventListener("click",()=>{n.classList.add("hidden")})}
